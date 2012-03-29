@@ -1,0 +1,3 @@
+JavascriptMVC integration into [Zena](http://zenadmin.org), a Rails CMS.
+
+Early work...

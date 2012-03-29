@@ -1,0 +1,12 @@
+[submodule "public/steal"]
+	path = public/steal
+	url = https://github.com/zena/steal.git
+[submodule "public/jquery"]
+	path = public/jquery
+	url = https://github.com/zena/jquerymx.git
+[submodule "public/documentjs"]
+	path = public/documentjs
+	url = https://github.com/zena/documentjs.git
+[submodule "public/funcunit"]
+	path = public/funcunit
+	url = https://github.com/zena/funcunit.git
