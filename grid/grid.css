@@ -1,0 +1,21 @@
+* {font-family:Arial}
+body { margin:20px;}
+th {background:#333; color:white; padding:5px;}
+td {padding:5px; border:1px solid #333}
+td.action {border-width:0 0 0 1px; font-size:70%}
+td.input, th.input { padding:0;}
+td input, th input { padding:0;font-size:inherit;}
+/*.changed td, .changed th {background:#f0f0f0}*/
+td.changed {background:#E5DDD7}
+.saved { background:#A3FF4F}
+td.undone, td.changed.undone, th.undone, th.changed.undone { background:#F3F07F}
+
+h3 { margin:2em 0; font-weight:bold}
+#log { margin:2em; list-style-type:disc;}
+.grid_btn a {text-decoration:none; border:1px solid #333; border-radius:4px; padding:2px 5px; color:white;}
+.grid_btn {margin:1em 0}
+.grid_btn a.save {background:#80B62D}
+.grid_btn a.undo {background:#AAB76D}
+
+textarea { width:50%; height:4em; margin:2em 0}
+.grid .action span {cursor:pointer}
